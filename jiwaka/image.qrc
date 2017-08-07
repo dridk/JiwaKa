@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/eklipse_white.png</file>
+        <file>img/jiwaka_black.png</file>
+        <file>img/Kermit_white.png</file>
+        <file>img/kiwi_white.png</file>
+        <file>img/logo-chu-angers-g-2.png</file>
+        <file>img/Niourk_white.png</file>
+        <file>img/ua_h_noir_ecran.png</file>
+    </qresource>
+</RCC>

@@ -14,10 +14,15 @@ TEMPLATE = app
 
 SOURCES += main.cpp\
         mainwindow.cpp \
-    niourkdialog.cpp
+    niourkdialog.cpp \
+    JiwakaHomeWidget.cpp
 
 HEADERS  += mainwindow.h \
-    niourkdialog.h
+    niourkdialog.h \
+    JiwakaHomeWidget.h
 
 FORMS    += mainwindow.ui \
     niourkdialog.ui
+
+RESOURCES += \
+    image.qrc
